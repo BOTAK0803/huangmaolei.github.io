@@ -11,7 +11,7 @@ cover:          /assets/images/covers/FSLNet.png
 authors:
 - Maolei Huang
 - Yao Yu
-- DeTao Lv
+- Detao Lv
 - Huawei Cao
 - Shuhan Song
 links:

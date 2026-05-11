@@ -11,7 +11,7 @@ cover:          /assets/images/covers/HGPNet.png
 authors:
 - Maolei Huang
 - Yao Yu
-- DeTao Lv
+- Detao Lv
 - Manwei Li
 - Huawei Cao
 - Shuhan Song
