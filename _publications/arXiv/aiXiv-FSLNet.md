@@ -10,8 +10,10 @@ pub_last:       ''
 cover:          /assets/images/covers/FSLNet.png
 authors:
 - Maolei Huang
-- Shuhan Song
+- Yao Yu
+- DeTao Lv
 - Huawei Cao
+- Shuhan Song
 links:
   Paper: https://www.cell.com
   Code: https://www.cell.com
