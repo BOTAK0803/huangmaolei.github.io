@@ -1,13 +1,13 @@
 ---
-title:          "OmniJourney: A Unified Deep Learning Framework for Mix-modal Transportation Ranking"
+title:          "CRA: A Tripartite Adaptation Framework for Robust Promotional Drift Mitigation in Industrial Recommendation"
 # date:           arXiv
 selected:       true
-pub:            "aiXiv"
+pub:            "arXiv"
 pub_last:       ''
 # pub_date:       "arXiv"
 # abstract: >-
 #   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/OmniJourney.png
+cover:          /assets/images/covers/CRC.png
 authors:
 - Maolei Huang
 - Shuhan Song

@@ -1,13 +1,13 @@
 ---
-title:          "ID-Net: Intent-Drift-Aware Dual Debiasing for Large-Scale Channel Recommendation"
+title:          "Learning What to Optimize: A Meta-Learning Approach to Personalized Ranking"
 # date:           arXiv
 selected:       true
-pub:            "aiXiv"
+pub:            "arXiv"
 pub_last:       ''
 # pub_date:       "arXiv"
 # abstract: >-
 #   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/ID-Net.png
+cover:          /assets/images/covers/Learning What to Optimize.png
 authors:
 - Maolei Huang
 - Shuhan Song

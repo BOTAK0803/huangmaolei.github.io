@@ -1,13 +1,13 @@
 ---
-title:          "CRA: A Tripartite Adaptation Framework for Robust Promotional Drift Mitigation in Industrial Recommendation"
+title:          "ID-Net: Intent-Drift-Aware Dual Debiasing for Large-Scale Channel Recommendation"
 # date:           arXiv
 selected:       true
-pub:            "aiXiv"
+pub:            "arXiv"
 pub_last:       ''
 # pub_date:       "arXiv"
 # abstract: >-
 #   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/CRC.png
+cover:          /assets/images/covers/ID-Net.png
 authors:
 - Maolei Huang
 - Shuhan Song
