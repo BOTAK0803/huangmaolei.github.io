@@ -23,10 +23,12 @@ dblp: https://dblp.org/pid/359/5351.html
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Professional Bio
-    
+    <strong>Professional Bio</strong>
+  </p>
+  <p>  
     I am a Researcher at Alibaba (Beijing) specializing in Ranking & Recommendation Systems and Supply Chain Optimization. My work focuses on designing and deploying robust, large-scale recommendation engines that power diverse, high-concurrency commercial ecosystems. I am deeply passionate about pushing the frontiers of Deep Learning to solve complex challenges in user intent modeling, multi-task learning, cross-domain transfer learning, and large-scale revenue optimization.
-
+  </p>
+  <p>
     My professional approach is built upon a strong academic foundation: I hold an M.S. in Computer Architecture from the Institute of Computing Technology (ICT), University of Chinese Academy of Sciences (UCAS), and a B.S. in Software Engineering from Shandong University (SDU). Beyond my core responsibilities, I am an active member of the global research community, serving as a regular Program Committee member and reviewer for premier AI and data mining conferences, including KDD, RecSys, and SIGIR. Throughout my career, I have remained committed to bridging the gap between cutting-edge algorithmic innovation and real-world industrial impact, consistently delivering measurable improvements in both user experience and business efficiency. I thrive on transforming theoretical research into scalable solutions that drive sustainable business growth and long-term competitive advantage
   </p>
 
